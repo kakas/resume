@@ -13,9 +13,9 @@ Taipei, Taiwan, shrimptrain@gmail.com
 - 審查 Pull Request，把關商業邏輯及程式碼品質
    -  從 2017/01/03 團隊共發出 9008 個 PR <sup>[1](#foot-note-1)</sup>，Code Review 數量為 2979 <sup>[2](#foot-note-2)</sup>，Review 約 33% 的 Pull Request
 - 撰寫 JMeter 執行壓力測試，協助同仁估算活動舉辦時需要的 Infra 大小，確保活動順利進行
-- 建置 WebSocket Server (使用 golang 撰寫)，2 * t3.medium(4 G memory, 2 CPU) 至少可承受 10,000 同時連線 (使用 JMeter 測試)
+- 建置可承受 10,000 人同時連線的 WebSocket Server
    - 使用 Golang 撰寫、使用 Docker 佈署至 AWS ECS
-   - 加入 pub/sub 機制，讓 Rails 後端可以直接推送訊息給前端
+   - 利用 Redis 加上 pub/sub 功能，讓 Rails 後端可以直接推送訊息給前端
    - 部分 service 死掉不會影響整個系統 (High Available)
 - 將舊有 jQuery 撰寫的遊戲 UI，使用 React 改寫，增進前端效能及可維護性
 - 優化後端程式維護性及效能
