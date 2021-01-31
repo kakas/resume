@@ -12,17 +12,17 @@ Taipei, Taiwan, shrimptrain@gmail.com
 - 審查 Pull Request，把關商業邏輯及程式碼品質
    -  從 2017/01/03 - 2021/01/31 團隊共發出 9008 個 PR <sup>[1](#foot-note-1)</sup>，我的 Code Review 數量為 2979 <sup>[2](#foot-note-2)</sup>，約 33%
 - 建置可承受 10,000 人同時連線的 WebSocket Server
-   - 使用 Golang 撰寫、使用 Docker 佈署至 AWS ECS
+   - 使用 Golang 撰寫、使用 Docker 佈署至 AWS Elastic Container Service (ECS)
    - 利用 Redis 加上 pub/sub 功能，讓 Rails 後端可以直接推送訊息給前端
    - 部分 service 死掉不會影響整個系統 (High Available System)
 - 優化後端程式維護性及效能
    - 增加必要的 DataBase index 及減少不必要的 DataBase Index
-   - 使用 Template Method 重構道具使用的程式，使其更好維護
-   - 導入 Form Object 讓程式更好維護
-- 撰寫 JMeter 執行壓力測試，協助同仁估算活動舉辦時需要的 Infra 大小，確保活動順利進行
+   - 處理 Race Condition
+   - 導入 Design Pattern 重構程式，增加可維護性
+- 撰寫 JMeter 腳本執行壓力測試，協助同仁估算活動舉辦時需要的 Infra 大小，確保活動順利進行
 - 導入 Webpack 讓前端可以使用 ES6 語法及 babel polyfill，讓開發更快、更好維護
 - 導入 React 至遊戲端，讓效能更好、開發更快、程式更好維護
-- 前端導入靜態檢查工具，減少開發時間，增進程式可維護性
+- 前端導入靜態檢查工具，減少開發時間，讓程式更好維護
    - ESLint + scss-lint
 - 製作各種遊戲的 UI
    - 競賽之盾的教師設定：
