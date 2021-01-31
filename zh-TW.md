@@ -10,7 +10,7 @@ Taipei, Taiwan, shrimptrain@gmail.com
 
 - 開發遊戲相關功能，使用 Ruby on Rails 及 Rspec 開發後端 API，前端使用 React、Redux 開發
 - 審查 Pull Request，把關商業邏輯及程式碼品質
-   -  從 2017/01/03 - 2021/01/31 團隊共發出 9008 個 PR <sup>[1](#foot-note-1)</sup>，我的 Code Review 數量為 2979 <sup>[2](#foot-note-2)</sup>，約 33%
+   -  從 2017/01/03 - 2021/01/31 團隊共發出 9008 個 PR <sup>[1](#foot-note-1)</sup>，有經過我 Code Review 的數量為 2979 <sup>[2](#foot-note-2)</sup>，約 33%
 - 建置可承受 10,000 人同時連線的 WebSocket Server
    - 使用 Golang 撰寫、使用 Docker 佈署至 AWS Elastic Container Service (ECS)
    - 利用 Redis 加上 pub/sub 功能，讓 Rails 後端可以直接推送訊息給前端
