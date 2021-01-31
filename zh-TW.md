@@ -1,5 +1,7 @@
 蕭錦成 (Hsiao, Chin-Cheng)
+
 Full-Stack Web Developer
+
 Taipei, Taiwan, shrimptrain@gmail.com
 
 ## 工作經歷
@@ -46,8 +48,11 @@ Taipei, Taiwan, shrimptrain@gmail.com
 ## 學歷
 
 高雄應用科技大學電機工程所碩士 2008 ~ 2010
+
 高雄應用科技大學電機工程系學士 2004 ~ 2008
 
-footnote:
+### footnote:
+
 <a name="foot-note-1">1</a>: 在 Pull Request 列表搜尋 `is:pr reviewed-by:kakas`
+
 <a name="foot-note-2">2</a>: 在 Pull Request 列表搜尋 `is:pr created:>2017-01-03`
