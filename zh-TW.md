@@ -8,26 +8,26 @@ Taipei, Taiwan, shrimptrain@gmail.com
 
 ### 幫你優 (BonioO Inc.) Jan, 2017 - Present
 
-- 開發遊戲相關功能，使用 Ruby on Rails 及 Rspec 開發後端 API，前端使用 React、Redux 開發。
-- 導入 Webpack 讓前端可以使用 ES6 語法及 babel polyfill，讓開發更快、更好維護
+- 開發遊戲相關功能，使用 Ruby on Rails 及 Rspec 開發後端 API，前端使用 React、Redux 開發
 - 審查 Pull Request，把關商業邏輯及程式碼品質
    -  從 2017/01/03 團隊共發出 9008 個 PR <sup>[1](#foot-note-1)</sup>，Code Review 數量為 2979 <sup>[2](#foot-note-2)</sup>，Review 約 33% 的 Pull Request
-- 撰寫 JMeter 執行壓力測試，協助同仁估算活動舉辦時需要的 Infra 大小，確保活動順利進行
 - 建置可承受 10,000 人同時連線的 WebSocket Server
    - 使用 Golang 撰寫、使用 Docker 佈署至 AWS ECS
    - 利用 Redis 加上 pub/sub 功能，讓 Rails 後端可以直接推送訊息給前端
-   - 部分 service 死掉不會影響整個系統 (High Available)
-- 將舊有 jQuery 撰寫的遊戲 UI，使用 React 改寫，增進前端效能及可維護性
+   - 部分 service 死掉不會影響整個系統 (High Available System)
 - 優化後端程式維護性及效能
    - 增加必要的 DataBase index 及減少不必要的 DataBase Index
    - 使用 Template Method 重構道具使用的程式，使其更好維護
    - 導入 Form Object 讓程式更好維護
-- 前端導入靜態檢查工具，減少開發時間，增進程式可維護性 (eslint + scsslint)
+- 撰寫 JMeter 執行壓力測試，協助同仁估算活動舉辦時需要的 Infra 大小，確保活動順利進行
+- 導入 Webpack 讓前端可以使用 ES6 語法及 babel polyfill，讓開發更快、更好維護
+- 導入 React 至遊戲端，讓效能更好、開發更快、程式更好維護
+- 前端導入靜態檢查工具，減少開發時間，增進程式可維護性
    - ESLint + scss-lint
 - 製作各種遊戲的 UI
-   - 競賽之盾：
-   - 鍛造系統的：
-   - 任務書：
+   - 競賽之盾的教師設定：
+   - 鍛造系統：
+   - 任務書右半部及動畫：
    - 累計登入：
 - 舉辦程式讀書加強團隊專業知識
 
