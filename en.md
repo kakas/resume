@@ -23,7 +23,7 @@ Taipei, Taiwan, shrimptrain@gmail.com
    - Fix or prevent the race condition.
    - Use design-pattern to increase readability and maintainability.
 - Write JMeter scripts to perform load-testing.
-   - Help colleagues find the correct size of Infra for the online contest.
+   - Help my colleagues find the correct size of Infra for the online contest.
 - Introduce Webpack so that the frontend can use ES6 syntax and babel-polyfill, making development faster and better maintained.
 - Introduce React to develop game-related functions to make performance better, and let the development faster, maintenance easily.
 - Import static-code-analysis tools for the frontend to reduce development time and increase maintainability.
