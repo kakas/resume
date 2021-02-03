@@ -18,7 +18,7 @@ Taipei, Taiwan, shrimptrain@gmail.com
 - Build a WebSocket Server that can support 10k simultaneous connections.
    - Develop by Golang, and deploy to AWS Elastic Container Service.
    - High Available. (Some server shutdown will not affect the entire system.)
-- Optimize the maintainability and performance of backend programs. ()
+- Optimize the maintainability and performance of backend programs.
    - Add necessary DataBase index and remove unnecessary DataBase Index.
    - Fix or prevent the race condition.
    - Use design-pattern to increase readability and maintainability.
