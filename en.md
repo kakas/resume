@@ -6,7 +6,7 @@ Taipei, Taiwan, shrimptrain@gmail.com
 
 ## Work Experience
 
-### 幫你優 (BonioO Inc.) Jan, 2017 - Present
+### 幫你優 BonioO Inc. (Jan, 2017 - Present)
 
 **Full-Stack Web Developer**
 
@@ -32,14 +32,14 @@ Taipei, Taiwan, shrimptrain@gmail.com
    - Examples: https://github.com/kakas/resume/issues/1
 - Organize program reading-club to improve professional knowledge of our team, and apply it to work.
 
-### Freelancer April, 2016 ~ Dec, 2016
+### Freelancer (April, 2016 ~ Dec, 2016)
 
 **Full-Stack Web Developer**
 
 - Self-taught Ruby on Rails.
 - Use Ruby on Rails to develop a loan and personnel management system. (Work on a piecework basis)
 
-### 盈正豫順 (Ablerex Electronics Co., Ltd.) Dec, 2011 ~ Mar, 2016
+### 盈正豫順 Ablerex Electronics Co., Ltd. (Dec, 2011 ~ Mar, 2016)
 
 **Firmware Engineer**
 
