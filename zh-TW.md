@@ -8,9 +8,11 @@ Taipei, Taiwan, shrimptrain@gmail.com
 
 ### 幫你優 (BonioO Inc.) Jan, 2017 - Present
 
+**Full-Stack Web Developer**
+
 - 開發遊戲相關功能，使用 Ruby on Rails 及 Rspec 開發後端 API，前端使用 React、Redux 開發
 - 審查 Pull Request，把關商業邏輯及程式碼品質
-   -  從 2017/01/03 - 2021/01/31 團隊共發出 9008 個 PR <sup>[1](#foot-note-1)</sup>，有經過我 Code Review 的數量為 2979 <sup>[2](#foot-note-2)</sup>，約 33%
+   -  從 2017/01/03 - 2021/01/31 團隊共發出 9008 個 PR <sup>[1](#foot-note-1)</sup>，審查 Pull Request 的數量為 2979 <sup>[2](#foot-note-2)</sup>，約 33%
 - 建置可承受 10,000 人同時連線的 WebSocket Server
    - 使用 Golang 撰寫、使用 Docker 佈署至 AWS Elastic Container Service (ECS)
    - 利用 Redis 加上 pub/sub 功能，讓 Rails 後端可以直接推送訊息給前端
@@ -18,25 +20,26 @@ Taipei, Taiwan, shrimptrain@gmail.com
 - 優化後端程式維護性及效能
    - 增加必要的 DataBase index 及減少不必要的 DataBase Index
    - 處理 Race Condition
-   - 導入 Design Pattern 重構程式，增加可維護性
+   - 導入 Design Pattern 重構程式，增加可讀性及維護性
 - 撰寫 JMeter 腳本執行壓力測試，協助同仁估算活動舉辦時需要的 Infra 大小，確保活動順利進行
 - 導入 Webpack 讓前端可以使用 ES6 語法及 babel polyfill，讓開發更快、更好維護
 - 導入 React 至遊戲端，讓效能更好、開發更快、程式更好維護
 - 前端導入靜態檢查工具，減少開發時間，讓程式更好維護
    - ESLint + scss-lint
 - 製作各種遊戲的 UI
-   - 競賽之盾的教師設定：
-   - 鍛造系統：
-   - 任務書右半部及動畫：
-   - 累計登入：
-- 舉辦程式讀書加強團隊專業知識
+   - https://github.com/kakas/resume/issues/1
+- 舉辦程式讀書加強團隊專業知識，並應用在工作上
 
 ### 自由工作者 April, 2016 ~ Dec, 2016
+
+**Full-Stack Web Developer**
 
 - 自學 Ruby on Rails
 - 使用 Ruby on Rails 開發貸款及人員管理系統 (接案)
 
 ### 盈正豫順 Dec, 2011 ~ Mar, 2016
+
+**Firmware Engineer**
 
 - 開發 60kw 三相不斷電併聯系統
    - 使用 c 語言在 TMS320F2808 平台開發
@@ -53,6 +56,6 @@ Taipei, Taiwan, shrimptrain@gmail.com
 
 ### footnote:
 
-<a name="foot-note-1">1</a>: 在 Pull Request 列表搜尋 `is:pr reviewed-by:kakas`
+<a name="foot-note-1">1. 團隊 PR 數量</a>: 在 Pull Requests 列表搜尋 `is:pr reviewed-by:kakas`
 
-<a name="foot-note-2">2</a>: 在 Pull Request 列表搜尋 `is:pr created:>2017-01-03`
+<a name="foot-note-2">2. Code Review 的數量</a>: 在 Pull Requests 列表搜尋 `is:pr created:>2017-01-03`
