@@ -49,7 +49,6 @@ Taipei, Taiwan, shrimptrain@gmail.com
 - Increase the parallel connection from 2 to 6, and increase the output power 3 times.
 - Develop the 30 KAV three-phase uninterruptible power supply system with internal manual bypass for easy maintenance without power interruption.
    - https://www.ablerex.com.tw/products_4.php?bgid=1&mgid=1&sgid=37
-- Make experiments and write reports.
 - Make experiments in various environments.
    - In different voltages, loads, and temperatures.
    - Write test reports.
