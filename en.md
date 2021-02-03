@@ -30,7 +30,7 @@ Taipei, Taiwan, shrimptrain@gmail.com
    - ESLint + scss-lint
 - Make game-related UI
    - Examples: https://github.com/kakas/resume/issues/1
-- Organize program reading club to increase team professional knowledge and apply it to work.
+- Organize program reading-club to improve professional knowledge of our team, and apply it to work.
 
 ### Freelancer April, 2016 ~ Dec, 2016
 
