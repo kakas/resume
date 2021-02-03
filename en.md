@@ -39,7 +39,7 @@ Taipei, Taiwan, shrimptrain@gmail.com
 - Self-taught Ruby on Rails.
 - Use Ruby on Rails to develop a loan and personnel management system. (Work on a piecework basis)
 
-### 盈正豫順 Dec, 2011 ~ Mar, 2016
+### 盈正豫順 (Ablerex Electronics Co., Ltd.) Dec, 2011 ~ Mar, 2016
 
 **Firmware Engineer**
 
