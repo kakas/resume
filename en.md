@@ -6,6 +6,29 @@ Taipei, Taiwan, shrimptrain@gmail.com
 
 ## Work Experience
 
+### FARIA EDUCATION GROUP (May,  2021 - Present) 
+
+**Full-Stack Web Developer**
+
+- Develop and maintain the OpenApply system (https://www.openapply.com/) 
+  - **Develop and Maintain Backend API**: Design, develop and maintain the backend API of the OpenApply application and optimize the code to improve readability and performance.
+  - **Refactor the email template function**: Improve the readability and performance of the program, and support user-defined fields.
+  - **Designed and developed an automated labeling system**: Designed and implemented an automated labeling system to effectively improve the efficiency of the corresponding processes.
+  - **Introduce Coverband to remove dead code**: Introduced the Coverband tool to help identify and remove code that is no longer in use, improving code clarity and reducing redundancy.
+  - **Developing 2FA functionality with devise-two-factor**: Improving App security.
+  - **Performance optimization**:
+    - Export function: 6.6 sec/request -> 3.8 sec/request
+    - Student editing page: 10x faster on front-end, 2x faster on back-end
+    - Optimize data sync API to increase response speed by 2.38 times, improving the efficiency of data synchronization.
+  - **Technology Migration**:
+    - Rails autoloader from classic to zeitwerk.
+    - feature test toolchain from PhantomJS to selenium + headless chrome.
+    - Successfully converted some pages to Vue2.js implementations for better program maintenance and reduced server load.
+- Leadership and Training
+  - **Lead program book clubs and Code Review clubs:** Organize and host professional skill enhancement activities to strengthen the team's professional knowledge.
+  - **Mentoring junior developers:**  Lead junior developers to help them integrate into the team and familiarize with the workflow.
+  - **Planning and Revision of Coding Style:** Lead the team to revise and plan the coding style to ensure the consistency of the coding style and improve the overall code quality.
+
 ### 幫你優 BonioO Inc. (Jan, 2017 - Present)
 
 **Full-Stack Web Developer**
